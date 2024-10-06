@@ -1,4 +1,4 @@
-# SanskritSegmentationNER
+# Sanskrit Segmentation NER
 
 This project fine-tunes a pre-trained BERT model for Sanskrit sentence segmentation and Named Entity Recognition (NER).
 
