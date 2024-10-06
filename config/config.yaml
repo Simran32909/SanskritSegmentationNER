@@ -1,0 +1,6 @@
+model_name: "bert-base-cased"
+learning_rate: 2e-5
+num_epochs: 3
+batch_size: 16
+output_dir: "./models/bert_sanskrit/"
+log_dir: "./logs/"
